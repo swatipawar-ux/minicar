@@ -1,0 +1,6 @@
+{
+  "name": "Arcade Mini Racer 3D",
+  "description": "High-octane retro 3D arcade racer with customizable vehicles, dynamic synth sound synthesis, nitro boost mechanics, and neon highways.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
